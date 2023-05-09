@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Ditadi</h1>
 
-<!--
-**ditadi/ditadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Creating web and mobile products for more than one decade. Scalable systems are my favorite topic :)</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Languages and Technologies</h2>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rust,tailwind" alt="Typescript, React, NextJS, NodeJS, Rust, Tailwind" /></br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,graphql,docker,linux,vercel" alt="Postgres, MySQL, MongoDB, Firebase, Supabase, GraphQL, Docker, Linux, Vercel" /></br>
+    <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" />
+    
+  </a>
+</p>
